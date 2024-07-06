@@ -5,8 +5,11 @@ For the hardware I wanted USB-C Connectivity and I used an STLINK-V2 for flashin
 This was also my first 4-Layer PCB and the stack up for this board was SIGNAL-GND-GND-SIGNAL with a ground pour on the top layer as well.
 
 Hardware:
+
 MIC5317-3.3YM5-TR
+
 STM32F030F4P6TR
+
 SN74HC595DR
 
 ###Schematic:
