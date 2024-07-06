@@ -21,6 +21,11 @@ SN74HC595DR
 ![image](https://github.com/Cgrubick/5x5LEDMatrix/assets/75959508/1065ca79-31a5-4a52-a9c0-b85284bd4084)
 ![image](https://github.com/Cgrubick/5x5LEDMatrix/assets/75959508/e1a4dfe4-285a-4864-bff7-ee80176123e0)
 
+# Assembled Board
+![image](https://github.com/Cgrubick/5x5LEDMatrix/assets/75959508/47bd7556-94bb-42e9-af8c-5806845394d7)
+
+# Demo
+https://youtu.be/myra7309sJY
 
 
 
