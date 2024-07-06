@@ -1,0 +1,4 @@
+../Core/Src/MatrixDriver.c:14:5:ignite_led	16	static
+../Core/Src/MatrixDriver.c:48:6:enable_row	16	static
+../Core/Src/MatrixDriver.c:71:6:init_matrix	8	static
+../Core/Src/MatrixDriver.c:79:6:display_matrix_array	24	static

@@ -1,0 +1,5 @@
+../Core/Src/SN74HC595.c:9:6:shift_register_init	16	static
+../Core/Src/SN74HC595.c:18:6:shift_register_write	32	static
+../Core/Src/SN74HC595.c:31:6:shift_register_clear	8	static
+../Core/Src/SN74HC595.c:35:6:shift_register_enable_output	16	static
+../Core/Src/SN74HC595.c:43:6:pulse_pin	16	static
